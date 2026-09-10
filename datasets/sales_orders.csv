@@ -1,0 +1,11 @@
+OrderID,Region,Product,Category,Quantity,UnitPrice,OrderDate,SalesPerson
+O001,Nairobi,Laptop,Electronics,2,80000,2025-01-10,John
+O002,Mombasa,Phone,Electronics,5,25000,2025-01-11,Mary
+O003,Kisumu,Tablet,Electronics,3,35000,2025-01-12,Peter
+O004,Nakuru,Laptop,Electronics,1,80000,2025-01-13,Susan
+O005,Nairobi,Headphones,Accessories,10,3000,2025-01-14,David
+O006,Mombasa,Phone,Electronics,4,25000,2025-01-15,Grace
+O007,Kisumu,Mouse,Accessories,15,1500,2025-01-16,James
+O008,Nakuru,Keyboard,Accessories,8,2500,2025-01-17,Faith
+O009,Nairobi,Tablet,Electronics,2,35000,2025-01-18,Brian
+O010,Mombasa,Laptop,Electronics,3,80000,2025-01-19,Ann

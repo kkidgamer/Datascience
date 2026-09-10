@@ -1,0 +1,101 @@
+StudentID,Name,Gender,Age,Department,Score,Date
+ST001,John,Male,22,Data Science,85,2025-01-15
+ST002,Mary,Female,24,Cyber Security,92,2025-01-16
+ST003,Peter,Male,21,Software Engineering,78,2025-01-17
+ST004,Susan,Female,23,Data Science,88,2025-01-18
+ST005,David,Male,25,Networking,67,2025-01-19
+ST006,Grace,Female,22,Cyber Security,91,2025-01-20
+ST007,James,Male,24,Software Engineering,74,2025-01-21
+ST008,Faith,Female,20,Data Science,86,2025-01-22
+ST009,Brian,Male,23,Networking,72,2025-01-23
+ST010,Ann,Female,21,Cyber Security,95,2025-01-24
+ST011,Kevin,Male,22,Software Engineering,81,2025-01-25
+ST012,Mercy,Female,24,Data Science,89,2025-01-26
+ST013,Paul,Male,21,Networking,76,2025-01-27
+ST014,Esther,Female,23,Cyber Security,93,2025-01-28
+ST015,Samuel,Male,25,Software Engineering,69,2025-01-29
+ST016,Lucy,Female,22,Data Science,87,2025-01-30
+ST017,George,Male,24,Networking,79,2025-01-31
+ST018,Ruth,Female,20,Cyber Security,94,2025-02-01
+ST019,Mark,Male,23,Software Engineering,82,2025-02-02
+ST020,Janet,Female,21,Data Science,90,2025-02-03
+ST021,Eric,Male,22,Networking,71,2025-02-04
+ST022,Joy,Female,24,Cyber Security,88,2025-02-05
+ST023,Victor,Male,25,Software Engineering,77,2025-02-06
+ST024,Lilian,Female,20,Data Science,85,2025-02-07
+ST025,Dennis,Male,23,Networking,68,2025-02-08
+ST026,Cynthia,Female,22,Cyber Security,96,2025-02-09
+ST027,Steve,Male,24,Software Engineering,80,2025-02-10
+ST028,Sharon,Female,21,Data Science,84,2025-02-11
+ST029,Patrick,Male,22,Networking,73,2025-02-12
+ST030,Irene,Female,23,Cyber Security,91,2025-02-13
+ST031,Alex,Male,21,Software Engineering,78,2025-02-14
+ST032,Diana,Female,24,Data Science,87,2025-02-15
+ST033,Martin,Male,25,Networking,70,2025-02-16
+ST034,Brenda,Female,22,Cyber Security,92,2025-02-17
+ST035,Collins,Male,23,Software Engineering,83,2025-02-18
+ST036,Eunice,Female,20,Data Science,89,2025-02-19
+ST037,Fred,Male,24,Networking,75,2025-02-20
+ST038,Hellen,Female,21,Cyber Security,95,2025-02-21
+ST039,Isaac,Male,22,Software Engineering,81,2025-02-22
+ST040,Jane,Female,23,Data Science,86,2025-02-23
+ST041,Kennedy,Male,25,Networking,69,2025-02-24
+ST042,Lucy2,Female,22,Cyber Security,93,2025-02-25
+ST043,Michael,Male,21,Software Engineering,76,2025-02-26
+ST044,Nancy,Female,24,Data Science,90,2025-02-27
+ST045,Oscar,Male,23,Networking,74,2025-02-28
+ST046,Purity,Female,20,Cyber Security,97,2025-03-01
+ST047,Richard,Male,22,Software Engineering,82,2025-03-02
+ST048,Sandra,Female,23,Data Science,88,2025-03-03
+ST049,Tom,Male,24,Networking,71,2025-03-04
+ST050,Vivian,Female,21,Cyber Security,94,2025-03-05
+ST051,Wilson,Male,22,Data Science,85,2025-03-06
+ST052,Yvonne,Female,24,Cyber Security,92,2025-03-07
+ST053,Zack,Male,21,Software Engineering,78,2025-03-08
+ST054,Alice,Female,23,Data Science,88,2025-03-09
+ST055,Ben,Male,25,Networking,67,2025-03-10
+ST056,Caroline,Female,22,Cyber Security,91,2025-03-11
+ST057,Daniel,Male,24,Software Engineering,74,2025-03-12
+ST058,Ester,Female,20,Data Science,86,2025-03-13
+ST059,Felix,Male,23,Networking,72,2025-03-14
+ST060,Gina,Female,21,Cyber Security,95,2025-03-15
+ST061,Harry,Male,22,Software Engineering,81,2025-03-16
+ST062,Ivy,Female,24,Data Science,89,2025-03-17
+ST063,Jack,Male,21,Networking,76,2025-03-18
+ST064,Kate,Female,23,Cyber Security,93,2025-03-19
+ST065,Luke,Male,25,Software Engineering,69,2025-03-20
+ST066,Mabel,Female,22,Data Science,87,2025-03-21
+ST067,Nick,Male,24,Networking,79,2025-03-22
+ST068,Olive,Female,20,Cyber Security,94,2025-03-23
+ST069,Philip,Male,23,Software Engineering,82,2025-03-24
+ST070,Queen,Female,21,Data Science,90,2025-03-25
+ST071,Ronald,Male,22,Networking,71,2025-03-26
+ST072,Stella,Female,24,Cyber Security,88,2025-03-27
+ST073,Terry,Male,25,Software Engineering,77,2025-03-28
+ST074,Ursula,Female,20,Data Science,85,2025-03-29
+ST075,Victor2,Male,23,Networking,68,2025-03-30
+ST076,Winnie,Female,22,Cyber Security,96,2025-03-31
+ST077,Xavier,Male,24,Software Engineering,80,2025-04-01
+ST078,Yvette,Female,21,Data Science,84,2025-04-02
+ST079,Zed,Male,22,Networking,73,2025-04-03
+ST080,Angela,Female,23,Cyber Security,91,2025-04-04
+ST081,Brian2,Male,21,Software Engineering,78,2025-04-05
+ST082,Christine,Female,24,Data Science,87,2025-04-06
+ST083,Dennis2,Male,25,Networking,70,2025-04-07
+ST084,Evelyn,Female,22,Cyber Security,92,2025-04-08
+ST085,Frank,Male,23,Software Engineering,83,2025-04-09
+ST086,Gladys,Female,20,Data Science,89,2025-04-10
+ST087,Henry,Male,24,Networking,75,2025-04-11
+ST088,Irene2,Female,21,Cyber Security,95,2025-04-12
+ST089,Joseph,Male,22,Software Engineering,81,2025-04-13
+ST090,Karen,Female,23,Data Science,86,2025-04-14
+ST091,Leon,Male,25,Networking,69,2025-04-15
+ST092,Monica,Female,22,Cyber Security,93,2025-04-16
+ST093,Nelson,Male,21,Software Engineering,76,2025-04-17
+ST094,Olga,Female,24,Data Science,90,2025-04-18
+ST095,Peter2,Male,23,Networking,74,2025-04-19
+ST096,Queenie,Female,20,Cyber Security,97,2025-04-20
+ST097,Robert,Male,22,Software Engineering,82,2025-04-21
+ST098,Sylvia,Female,23,Data Science,88,2025-04-22
+ST099,Timothy,Male,24,Networking,71,2025-04-23
+ST100,Vanessa,Female,21,Cyber Security,94,2025-04-24
